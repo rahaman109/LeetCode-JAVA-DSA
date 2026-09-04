@@ -14,6 +14,7 @@ This repository contains my Java solutions to LeetCode problems.
 | [0035-search-insert-position](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -69,4 +70,8 @@ This repository contains my Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
