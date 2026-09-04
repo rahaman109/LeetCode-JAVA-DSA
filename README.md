@@ -12,6 +12,7 @@ This repository contains my Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0152-maximum-product-subarray) |
@@ -61,6 +62,7 @@ This repository contains my Java solutions to LeetCode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0075-sort-colors) |
 ## Quicksort
 |  |
@@ -73,5 +75,14 @@ This repository contains my Java solutions to LeetCode problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0152-maximum-product-subarray) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
