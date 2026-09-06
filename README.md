@@ -19,6 +19,7 @@ This repository contains my Java solutions to LeetCode problems.
 | [0152-maximum-product-subarray](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Binary Search
 |  |
@@ -35,6 +36,7 @@ This repository contains my Java solutions to LeetCode problems.
 | [0075-sort-colors](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0217-contains-duplicate) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -48,6 +50,7 @@ This repository contains my Java solutions to LeetCode problems.
 | ------- |
 | [0001-two-sum](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Counting
