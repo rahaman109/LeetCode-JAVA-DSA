@@ -20,6 +20,7 @@ This repository contains my Java solutions to LeetCode problems.
 | [0169-majority-element](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Binary Search
 |  |
@@ -100,4 +101,8 @@ This repository contains my Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
