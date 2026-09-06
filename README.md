@@ -11,6 +11,7 @@ This repository contains my Java solutions to LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0075-sort-colors) |
@@ -45,6 +46,7 @@ This repository contains my Java solutions to LeetCode problems.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Counting
