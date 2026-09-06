@@ -48,11 +48,13 @@ This repository contains my Java solutions to LeetCode problems.
 | ------- |
 | [0001-two-sum](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -87,4 +89,12 @@ This repository contains my Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rahaman109/LeetCode-JAVA-DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
